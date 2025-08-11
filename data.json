@@ -1,0 +1,21 @@
+{
+  "issuers": [
+    {
+      "name": "SmarterWe Ltd",
+      "ticker": "SWC",
+      "market": "AQSE",
+      "id": "84c56a43-2599-4455-9b38-e8c7b002a178"
+    }
+  ],
+  "programmes": [
+    {
+      "issuer_id": "84c56a43-2599-4455-9b38-e8c7b002a178",
+      "programme_name": "SmarterWe 2025 Warrant Programme",
+      "issue_date": "2025-08-11",
+      "expiry_date": "2028-08-11",
+      "strike_price": 0.15,
+      "total_warrants": 2000000,
+      "id": "446862b5-da05-4486-b3ee-73811970fe37"
+    }
+  ]
+}
